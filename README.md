@@ -1,4 +1,4 @@
-# Mencari rata-rata dari kumoulan angka yang diinput user (Python)
+# Mencari rata-rata dari kumpulan angka yang diinput user (Python)
 
 data_angka = list()
 banyaknya = input("Masukkan jumlah data angka:")
